@@ -1,6 +1,6 @@
 ## Say hello to my little friend Git🛸! I'm Felipe Belluco, and I'm glad to see you here.
 
-- 🧟‍ I’m currently working on Full-stack
+- 🧟‍ I’m currently working on Full-stack Jr.
 - 🧗‍♂️♂️ I’m currently learning Java and Kotlin
 - 📫 How to reach me: felipebelluco@live.com
 - 😄 Pronouns: He/Him
