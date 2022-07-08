@@ -1,17 +1,17 @@
 ## Say hello to my little friend Git🛸! I'm Felipe Belluco, and I'm glad to see you here.
 
 - 🧟‍ I’m currently working on Full-stack Jr.
-- 🧗‍♂️♂️ I’m currently learning Java and Kotlin
+- 🧗‍♂️ I’m currently learning Java and Kotlin
 - 📫 How to reach me: felipebelluco@live.com
 - 😄 Pronouns: He/Him
 
 #
 
 
-<div align="center">
+<div>
   <a href="https://github.com/FeBelluco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FeBelluco&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeBelluco&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=FeBelluco&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeBelluco&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
   
@@ -44,8 +44,8 @@
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70">
   
-<br><br><br><br>
-  
+<br><br>
+ 
 ##
   
 <div>
