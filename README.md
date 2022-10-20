@@ -21,7 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" height="70">
 &nbsp;
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original-wordmark.svg" width="70" height="70">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="70" height="70">
 &nbsp;
 &nbsp;  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="70" height="70">
