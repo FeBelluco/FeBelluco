@@ -41,7 +41,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70">
 &nbsp;
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/react-native.svg" width="70" height="70">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original-wordmark.svg" width="70" height="70">
 
 
   
