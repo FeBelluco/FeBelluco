@@ -26,6 +26,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="70" height="70">
 &nbsp;
 &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/postgresql-original-wordmark.svg" width="70" height="70">
+&nbsp;
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="70" height="70">
 &nbsp;
 &nbsp;
