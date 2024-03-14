@@ -32,9 +32,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="70" height="70">
 &nbsp;
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative.svg" width="70" height="70">
-&nbsp;
-&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" height="65">
 &nbsp;
 &nbsp;
