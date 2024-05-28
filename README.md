@@ -1,7 +1,7 @@
 ## Say hello to my little friend Git🛸! I'm Felipe Belluco, and I'm glad to see you here.
 
 - 🧟‍ I’m currently working on Full-stack.
-- 🧗‍♂️ I’m currently learning about Design Patterns and NodeJs
+- 🧗‍♂️ I’m currently learning about Go and Docker
 - 📫 How to reach me: felipebelluco@live.com
 - 😄 Pronouns: He/Him
 
